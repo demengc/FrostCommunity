@@ -25,10 +25,7 @@ body:
       description: |
         We need all of the stack trace! Do not cut off parts of it. Please do not use attachments.
         If you prefer, you can use a paste site like https://pastebin.com/.
-      value: |
-        ```
-        paste your stack trace or a https://pastebin.com/ link here!
-        ```
+      value: Paste your stack trace or a https://pastebin.com/ link here!
       placeholder: Please don't remove the backticks; it makes your issue a lot harder to read!
     validations:
       required: false
